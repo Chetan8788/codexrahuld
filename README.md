@@ -10,7 +10,7 @@ Creating vigorous applications that interface with the backend part of Full Stac
 
 - 🌱 I’m currently learning *SPRING BOOT*
  
-- 💬 Ask me about * JAVA/Spring Boot/Hibernet/MySql/JavaScript/PHP/HTML/CSS/BOOSTRAP*
+- 💬 Ask me about *JAVA/Spring Boot/Hibernet/MySql/JavaScript/PHP/HTML/CSS/BOOSTRAP*
 
 - 📫 How to reach me *rahuldeshmane22@gmail.com*
 <hr>
