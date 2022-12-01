@@ -3,8 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Deshmane</h1>
 <h3 align="center">
-Creating vigorous applications that interface with the backend part of Full Stack applications is my obsession as a Java Back-End Designer. I have broad involvement in site engineering, website composition, and web Programming interface plans. Zeroing in on working on the steadiness and speed of my application through a critical thinking outlook. I appreciate working in a group and am a cooperative person</h3>
 
+ 
+ I'm an aspiring Java Backend developer with 1000+ hours of coding experience in Java and JavaScript. Passionate about coding and self motivated with a keen interest in building user-centric products. Looking forward to utilizing my skills in a challenging work environment.</h3>
+ 
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexrahuld&label=Profile%20views&color=0e75b6&style=flat" alt="RahulDeshmane" /> </p>
