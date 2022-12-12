@@ -15,11 +15,13 @@
 
 - 🌱 I’m currently learning *SPRING BOOT*
  
-- 💬 Ask me about *JAVA/Spring Boot/Hibernet/MySql/JavaScript/PHP/HTML/CSS/BOOSTRAP*
+- 💬 Ask me about *JAVA/Spring Core/Spring Boot/Hibernet/MySql*
 
 - 👨‍💻 Checkout my <a href="https://codexrahuld.github.io/" alt="rahul Deshmane" target="blank">Portfolio </a> 
 
 - 📫 How to reach me *rahuldeshmane22@gmail.com*
+
+- 📮 Connect With Me On LinkedIn
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
