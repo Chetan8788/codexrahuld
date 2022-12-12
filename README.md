@@ -21,7 +21,8 @@
 
 - 📫 How to reach me *rahuldeshmane22@gmail.com*
 
-- 📮 Connect With Me On LinkedIn
+- 📮 Connect With Me On<a href="https://www.linkedin.com/in/rahul-deshmane-/" alt="Rahul Deshmane" target="blank">LinkedIn </a>  
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
