@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexrahuld&label=Profile%20views&color=0e75b6&style=flat" alt="RahulDeshmane" /> </p>
-
+![Profile views](https://gpvc.arturio.dev/codexrahuld)
 - 🔭 I’m currently pursuing *JAVA Back-End*
 
 - 🌱 I’m currently learning *SPRING BOOT*
@@ -24,6 +24,10 @@
 - 📮 Connect With Me On <a href="https://www.linkedin.com/in/rahul-deshmane-/" alt="Rahul Deshmane" target="blank">LinkedIn </a>  
 
 <hr>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark) 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -43,17 +47,10 @@
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/codexrahuld/github-readme-stats"><img alt="Rahul Deshmane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codexrahuld&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/codexrahuld/github-readme-stats"><img alt="Rahul Deshmane's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexrahuld&langs_count=8&count_private=true&layout=compact&exclude_repo=codexrahuld.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexrahuld&&theme=tokyonight" alt="Rahul Deshmane" /></p>
+| [![trophy](https://github-profile-trophy.vercel.app/?username=codexrahuld)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codexrahuld&layout=compact)](https://github.com/codexrahuld/github-readme-stats) |
+| :---: | :---: |
 
 
-
-<a href="https://github.com/codexrahuld/github-readme-activity-graph"><img alt="RahulDeshmane's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codexrahuld&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codexrahuld&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=codexrahuld&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| :---: | :---: |
