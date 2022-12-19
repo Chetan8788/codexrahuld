@@ -1,11 +1,13 @@
 
-![Githubpng](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 
 <h1 align="center">Hi 👋, I'm Rahul Deshmane</h1>
 <h3 align="center">
 
  
  I'm an aspiring Java Backend developer with 1000+ hours of coding experience in Java and JavaScript. Passionate about coding and self motivated with a keen interest in building user-centric products. Looking forward to utilizing my skills in a challenging work environment.</h3>
+ 
+ ![Githubpng](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
+
  
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
