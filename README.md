@@ -11,8 +11,8 @@
  
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexrahuld&label=Profile%20views&color=0e75b6&style=flat" alt="RahulDeshmane" /> </p>
-![Profile views](https://gpvc.arturio.dev/codexrahuld)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexrahuld&label=Profile%20views&color=0e75b6&style=flat" alt="RahulDeshmane" /> 
+![Profile views](https://gpvc.arturio.dev/codexrahuld)</p>
 - 🔭 I’m currently pursuing *JAVA Back-End*
 
 - 🌱 I’m currently learning *SPRING BOOT*
